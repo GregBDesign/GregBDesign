@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Greg
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Development (Diploma) - Languages: HTML, CSS, JavaScript, PHP, SQL. Frameworks - React
+- 🌱 I’m currently learning Web Development - Languages: HTML, CSS, JavaScript, React, PHP, SQL.
 - 📫 You can contact me through here! :)
