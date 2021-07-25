@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Greg
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Development - Languages: HTML, CSS, JavaScript, React, PHP, SQL.
-- 📫 You can contact me through here! :)
+- 👋 Hi, I’m Greg Baugh. I'm a full stack developer based in Melbourne, Australia
