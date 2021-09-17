@@ -1,4 +1,4 @@
-![](GregBDesign/GBaugh.jpg)
+![](/GBaugh.jpg)
 
 👋 Hi, I’m Greg Baugh, a full stack developer based in Melbourne, Australia
 
