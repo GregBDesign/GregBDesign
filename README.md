@@ -11,13 +11,13 @@ Since relocating to Melbourne in 2018 to live with my Australian husband, I’ve
 I’m skilled working in full stack development and feel a particular affinity to the back end. As someone who loves to learn, one of the most exciting things to me about software and web development is that there’s always new technologies and skills to learn.
 
 I love developing modern applications using the following technologies:
-HTML
-CSS
-Bootstrap, SASS and Styled Components
-ES6 Javascript on both the front and back-end (Node / Express)
-React
-PHP
-SQL and NoSQL databases (MySQL, Postgres, MongoDB)
-Database design
+- HTML
+- CSS
+- Bootstrap, SASS and Styled Components
+- ES6 Javascript on both the front and back-end (Node / Express)
+- React
+- PHP
+- SQL and NoSQL databases (MySQL, Postgres, MongoDB)
+- Database design
 
 Along with my above skills, I’m also learning Ruby on Rails and have exposure with Python.
