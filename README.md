@@ -1,3 +1,5 @@
+![](GregBDesign/GBaugh.jpg)
+
 👋 Hi, I’m Greg Baugh, a full stack developer based in Melbourne, Australia
 
 My first exposure to coding was an old BBC Micro that my mum brought home from her work. They were about to be dumped and she thought I may be interested. Along with a box of 5.25” floppy disks and a book on the BASIC programming language, I became fascinated with code and its possibilities (10 PRINT “Hello, World!”). Shortly afterwards I acquired a second hand Pentium PC running Windows 95 and fell in love with web 1.0 through the medium of dial up internet (Hello, Geocities!)
