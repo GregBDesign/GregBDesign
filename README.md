@@ -20,7 +20,6 @@ I love developing modern applications using the following technologies:
 - React
 - Typescript
 - PHP
+- Python
 - SQL and NoSQL databases (MySQL, Postgres, MongoDB)
 - Database design
-
-Along with my above skills, I’m also learning Ruby on Rails and have exposure with Python.
