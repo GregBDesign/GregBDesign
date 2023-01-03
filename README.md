@@ -11,7 +11,7 @@ I love developing modern applications using the following technologies:
 - Typescript
 - NodeJS
 - Java
-- Kotling
+- Kotlin
 - Spring Boot
 - PHP
 - SQL and NoSQL databases (MySQL, Postgres, MongoDB)
